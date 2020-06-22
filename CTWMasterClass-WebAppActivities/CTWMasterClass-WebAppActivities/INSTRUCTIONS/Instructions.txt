@@ -1,0 +1,4 @@
+﻿*Once the entity is created in the Entity folder, then uncomment the first comment on the first line 
+in ApplicationDbContext.cs*
+
+*Create a folder in Views for your specific views.*
